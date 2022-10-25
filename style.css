@@ -1,13 +1,5 @@
 @charset "UTF-8";
-/*
-	[Master Stylesheet]
-	Template Name: Traveler
-	Description: traveler is an expressive, virtuous, user friendly and powerful HTML 5 Template suitable for any Charity Nonprofit websites. Easy to use & customize, code & design quality, responsive theme, creative sliders, flexibility, many of premade pages, multiple portfolio options, responsive blog options and quick support – these are the outstanding features and quality to make you stand out from the crowd. This template boasts clean features, modern and unique design which make your website more beautiful. This template was built in Bootstrap 5.1, HTML5 and CSS3.
-	Author: Stair Themes
-	Author URI: https://themeforest.net/user/stairthemes
-	Version: 1.0.0
-	Primary use: Travel
-*/
+
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -604,7 +596,7 @@ input[type=datetime-local]:focus,
 input[type=color]:focus,
 textarea:focus,
 select:focus {
-  border-color: #3A78C9;
+  border-color: #92c744;
   outline: 0;
 }
 input[type=text]:-webkit-autofill, input[type=text]:-webkit-autofill:hover, input[type=text]:-webkit-autofill:focus, input[type=text]:-webkit-autofill:active,
